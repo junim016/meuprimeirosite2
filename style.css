@@ -20,6 +20,13 @@ nav li {
   padding: 20px;
 }
 
+nav a {
+  text-transform: uppercase;
+  font-size: 30px;
+  text-decoration: none;
+  color: rgb(253, 253, 253);
+}
+
 body {
     background-color: rgb(61, 248, 4);
 }
