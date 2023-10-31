@@ -27,6 +27,11 @@ nav a {
   color: rgb(253, 253, 253);
 }
 
+nav  a:hover {
+  color: black;
+  text-decoration: underline;
+}
+
 body {
     background-color: rgb(61, 248, 4);
 }
