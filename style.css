@@ -72,6 +72,8 @@ padding: 1%;
 .item-servicos {
   display: flex; 
   border: 1px solid rgb(12, 12, 12);
+  width: 15%;
+  height: 290px;
 }
 
 
