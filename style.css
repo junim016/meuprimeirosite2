@@ -87,7 +87,7 @@ padding: 1%;
 
 }
   #item1{
-    background-image: https://img.freepik.com/fotos-gratis/homem-em-um-salao-de-barbearia-fazendo-o-corte-de-cabelo-e-barba_1303-20953.jpg?w=360&t=st=1699972739~exp=1699973339~hmac=292af578d61a9830a772eb14298c4b11961aeb4a75a4cb1a423238588be0165b;
+    background-image: url(https://img.freepik.com/fotos-gratis/homem-em-um-salao-de-barbearia-fazendo-o-corte-de-cabelo-e-barba_1303-20953.jpg?w=360&t=st=1699972739~exp=1699973339~hmac=292af578d61a9830a772eb14298c4b11961aeb4a75a4cb1a423238588be0165b)
     background-size: cover;
   }
 
