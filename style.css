@@ -73,7 +73,7 @@ padding: 1%;
 .item-servicos {
   display: flex; 
   border: 1px solid rgb(12, 12, 12);
-  width: 15%;
+  width: 20%;
   height: 290px;
   justify-content: center;
   align-items: flex-start;
